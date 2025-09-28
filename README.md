@@ -1,5 +1,5 @@
 # Informacion_personal
-# 1. Crear un diccionario con información ficticia
+# 1. diccionario con información ficticia
 informacion_personal = {
     "nombre": "Juan Cardenas",
     "edad": 30,
